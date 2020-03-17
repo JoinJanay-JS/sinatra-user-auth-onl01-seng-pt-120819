@@ -1,4 +1,4 @@
 class Users < ActiveRecord::Migration
-  def change
+  def c
   end
 end
